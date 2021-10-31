@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ehtisham45
+- 👋 Hi, I’m Ehtisham Ahmad
 - 👀 I’m interested in working with data 
 - 🌱 I’m currently learning new technologies
 
